@@ -1,4 +1,10 @@
+# My Tech Blog
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Overview
+
+Welcome to my tech blog! Here, I will be sharing my findings and insights about various topics related to technology, web development, and more. Stay tuned for articles, tutorials, and updates. It is also the first project I did with next js.
 
 ## Getting Started
 
@@ -12,7 +18,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
