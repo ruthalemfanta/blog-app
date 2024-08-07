@@ -16,7 +16,7 @@ const Header = () => {
             </p>
             <form className='flex justify-between max-w-[500px] scale-75 sm:scale-100 mx-auto mt-10 border border-black shadow-[-7px_7px_0_#000000]' action="">
               <input type="email" placeholder='Enter your email' className='pl-4 outline-none' />
-              <button className='border-1 border-black py-4 px-4 sm:px-8 hover:bg-gray-600 active:bg-gray-600 active:text-white'>Subscribe</button>
+              <button type="submit" className='border-1 border-black py-4 px-4 sm:px-8 hover:bg-gray-600 active:bg-gray-600 active:text-white'>Subscribe</button>
             </form>
         </div>
     </div>
