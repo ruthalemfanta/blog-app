@@ -31,6 +31,9 @@ const page = ({params}) => {
         <h1 className='text-2xl sm:text-5xl font-semibold max-w-[750px] mx-auto'>{data.title}</h1>
         <Image src={data.author_img} width={60} height={60} alt='author-img' className='mx-auto mt-6 border border-white ' />
       </div>
+      <div className='mx-5  max-w-[800px] md:mx-auto mt-[100px] mb-10'>
+        <Image className='border-4 border-white' src={data.image} width={1280} height={720} alt='' />
+      </div>
     </div>
     </>:<></>
   )
